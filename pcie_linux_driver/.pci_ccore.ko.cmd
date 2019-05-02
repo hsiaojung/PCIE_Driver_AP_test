@@ -1,0 +1,1 @@
+cmd_/mnt/work/imx/pcie_linux_driver/pci_ccore.ko := aarch64-poky-linux-ld -EL -r  -maarch64linux -T /home/ubuntu/imx-yocto-bsp/build-xwayland-imx8mqevk/tmp/work-shared/imx8mqevk/kernel-source/scripts/module-common.lds --build-id  -o /mnt/work/imx/pcie_linux_driver/pci_ccore.ko /mnt/work/imx/pcie_linux_driver/pci_ccore.o /mnt/work/imx/pcie_linux_driver/pci_ccore.mod.o ;  true
